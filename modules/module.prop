@@ -1,0 +1,6 @@
+id=SamsungPhoneLinkPort
+name=Samsung Phone Link
+version=v1.0
+versionCode=1
+author=Ayra Hikari
+description=Change Link to Windows to Samsung ported services, and enable screen mirroring on Windows phone app.
